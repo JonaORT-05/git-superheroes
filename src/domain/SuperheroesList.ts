@@ -9,7 +9,7 @@ export class SuperheroesList {
     { name: "Hawkeye", side: "hero" },
     { name: "Thanos", side: "villain" },
     { name: "Loki", side: "villain" },
-    { name: "Wanda", side: "villain" },
+    { name: "Scarlet Witch", side: "hero" },
   ];
 
   getHeroes(): Superhero[] {
