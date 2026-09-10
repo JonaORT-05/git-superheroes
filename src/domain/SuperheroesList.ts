@@ -5,6 +5,8 @@ export class SuperheroesList {
     { name: "Iron Man", side: "hero" },
     { name: "Captain America", side: "hero" },
     { name: "Thor", side: "hero" },
+    { name: "Black Widow", side: "hero" },
+    { name: "Hawkeye", side: "hero" },
     { name: "Thanos", side: "villain" },
     { name: "Loki", side: "villain" },
     { name: "Wanda", side: "villain" },
